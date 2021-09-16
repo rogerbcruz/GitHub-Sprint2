@@ -1,0 +1,78 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16pt;
+    background-color: rgba(80, 80, 80, 0.1);
+}
+
+h1#titulo {
+    font-size: 16px;
+    text-align: center;
+}
+
+table#tabela {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+td.cabecalho {
+    background-color: rgba(0, 116, 122, 0.4);
+    font-size: 50pt;
+    color: #ffffff;
+}
+
+td#minima {
+    background-color: rgba(0, 116, 122, 0.4);
+    font-size: 50pt;
+    color: rgba(0, 12, 237, 0.6)
+}
+
+td.minima {
+    color: rgba(0, 12, 237, 0.6)
+}
+
+td#maxima {
+    background-color: rgba(0, 116, 122, 0.4);
+    font-size: 50pt;
+    color: rgba(255, 67, 0, 0.8)
+}
+
+td.maxima {
+    color: rgba(255, 0, 0, 0.8)
+}
+
+tr {
+    width: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+table h1 {
+    font-size: 18pt;
+    font-weight: bolder;
+
+}
+
+table h2 {
+    font-size: 15pt;
+}
+
+table td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 0px 20px;
+
+}
+
+table td.unicode {
+    font-size: 40pt;
+}
+
+h2#fonte {
+    text-align: center;
+    font-size: 8pt;
+    font-weight: 0;
+}

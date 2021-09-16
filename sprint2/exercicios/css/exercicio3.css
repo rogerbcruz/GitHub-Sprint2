@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+body{
+    height: 1000px;
+    width: 1000px;
+    background: url("../_imagens/Bola.jpg") no-repeat center bottom;  
+}
+

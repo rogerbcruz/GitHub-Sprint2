@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Shadows+Into+Light&display=swap');
+
+@font-face {
+    font-family:'FonteTitulo' ;
+    src: url();
+}
+
+div#corpo{
+    height: auto;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 5px 0px 3px rgba(0, 0, 0, 0.4);
+    padding: 15px;
+}
+h1#titulo{
+    font-size: 38pt;
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+}
+div#corpo h2#informacao {
+    font-size: 12pt;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    font-style: italic;
+}
+.hr3 {
+    border: 1px;
+    height: 2px;
+    background-image: linear-gradient(to right, transparent, #CCC, transparent);  
+  }
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    text-indent: 20px;
+}
+
+span#destaque{
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+footer{
+    text-align: center;
+}

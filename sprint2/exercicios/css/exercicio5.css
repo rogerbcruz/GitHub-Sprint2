@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+div#imagem1{
+    background: url("../_imagens/Bola.jpg") no-repeat center center;
+    display: inline-block;
+    height: 190px;
+    width: 310px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px;
+    margin: 0px 30px 0 60px;
+}
+
+div#imagem2{
+    background: url("../_imagens/cara-de-malvadao.jpg") no-repeat center center;
+    display: inline-block;
+    height: 190px;
+    width: 310px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px;
+    margin: 0px 30px;
+}
+
+div#imagem3{
+    background: url("../_imagens/coringa.jpg") no-repeat center center;
+    display: inline-block;
+    height: 190px;
+    width: 310px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px;
+    margin: 0px 30px;
+}
