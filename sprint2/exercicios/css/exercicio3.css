@@ -1,8 +1,10 @@
 @charset "UTF-8";
 
-body{
-    height: 1000px;
+div#imagem{
+    height: 600px;
     width: 1000px;
+    margin: 0px auto 0px auto;
+    border: 1px solid black;
     background: url("../_imagens/Bola.jpg") no-repeat center bottom;  
 }
 
